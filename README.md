@@ -3,10 +3,10 @@ This is Personal Protfolio Web (Practice) Template
 
 # Feature
 01. Designer Name
-02.Some text about Designer
-03.More details Button
-04.Designer Services
-05.Every Services blog
+02. Some text about Designer
+03. More details Button
+04. Designer Services
+05. Every Services blog
 
 # Uses Tools
 VS Code
