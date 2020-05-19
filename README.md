@@ -9,10 +9,10 @@ This is Personal Protfolio Web (Practice) Template
 05. Every Services blog
 
 # Uses Tools
-VS Code
-HTML 5
-CSS 3
-Various Type of Phone 
+01. VS Code
+02. HTML 5
+03. CSS 3
+04. Various Type of Phone 
 
 
 
